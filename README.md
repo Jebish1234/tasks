@@ -1,3 +1,13 @@
+<p> 1. git clone </p>
+<p> 2. composer update </p>
+<p> 3. create .env file and copy .env.example file data to.env file </p>
+<p> 4. create db in mysql or appache admin </p>
+<p> 5. run - php artisan key:generate </p>
+<p> 6. run - php artisan config:cache </p>
+<p> 7. run - php artisan migrate </p>
+<p> 8. run - php artisan serve </p>
+<p> 9. admin - http://localhost:8000/admin</p>
+<p> 9. customer - http://localhost:8000/registration</p>
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400"></a></p>
 
 <p align="center">
